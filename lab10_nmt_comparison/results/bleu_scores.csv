@@ -1,0 +1,5 @@
+model,bleu_score
+RNN,0.2376
+EncDec,0.2269
+Additive,0.2486
+Multiplicative,0.2522

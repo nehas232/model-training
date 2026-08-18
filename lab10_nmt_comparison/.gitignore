@@ -1,0 +1,5 @@
+﻿__pycache__/
+*.pyc
+checkpoints/
+processed_data.pkl
+data/spa.txt
